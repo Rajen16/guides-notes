@@ -19,3 +19,17 @@ Instances
 ============
 
 TODO
+
+Practice: Getting started with tika-python
+==========================================
+
+1. Parse PDF and extract data
+------------------------------
+
+Code Implementation for `Parsing PDF in Python with Tika <https://cbrownley.wordpress.com/2016/06/26/parsing-pdfs-in-python-with-tika/>`_ 
+
+2. Parse PPT and extract data
+------------------------------
+
+TODO
+
